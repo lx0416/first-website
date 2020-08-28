@@ -10,15 +10,16 @@ UOL Computing and Information Systems
 
 ### My Interests
 
-[Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fvolleyball%2Bvector&psig=AOvVaw1FdkXF9gZPla8M6Te8srZS&ust=1598694482296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjG-JjPvesCFQAAAAAdAAAAABAD)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# About Myself
-## My Interests
+# Header 1
+## Header 2
 ### Header 3
 
 - Bulleted
