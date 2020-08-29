@@ -8,7 +8,10 @@ UOL Computing and Information Systems
 
 ![image](https://user-images.githubusercontent.com/70319427/91632639-c85cec80-ea14-11ea-9f5a-328158f907f9.png)
 
-      Sports
+###List
+1. sentence
+2. sentence 2
+3. sentence 3
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
