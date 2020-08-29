@@ -22,22 +22,26 @@ column 1 | column 2
 cell 1 | cell 2
 cell 3 | cell 4 
 
-```markdown
-Syntax highlighted code block
+```html
+<link href="style.css" rel="stylesheet"></link>
+body {
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
 
-# Header 1
-## Header 2
-### Header 3
+h1 {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+}
 
-- Bulleted
-- List
+/* Applies to all elements with <... class="someclass"> specified. */
+.someclass { color: red; }
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+/* Applies to the element with <... id="someid"> specified. */
+#someid { color: green; }
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
