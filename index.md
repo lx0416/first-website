@@ -7,13 +7,8 @@ UOL Computing and Information Systems
 ### My Interests
 
 ![image](https://user-images.githubusercontent.com/70319427/91632983-59cd5e00-ea17-11ea-94e9-267ed7e8f62b.png)
-![image](https://user-images.githubusercontent.com/70319427/91633019-96995500-ea17-11ea-927d-aa7b338fcc01.png)
-
-(Computers) (Sports)
 
 ![image](https://user-images.githubusercontent.com/70319427/91633019-96995500-ea17-11ea-927d-aa7b338fcc01.png)
-
-(Sports)
 
 ### List
 1. sentence
