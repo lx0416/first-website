@@ -22,8 +22,7 @@ cell 3 | cell 4
 
 As Kanye West said:
 
-> We're living the future so
-> the present is our past
+> We're living the future so the present is our past
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
