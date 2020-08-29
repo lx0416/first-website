@@ -9,12 +9,11 @@ UOL Computing and Information Systems
 ![image](https://user-images.githubusercontent.com/70319427/91633019-96995500-ea17-11ea-927d-aa7b338fcc01.png)
 
 ### List
-1. sentence
+1. sentence 1
 1. sentence 2
 1. sentence 3
-  1. 3.5
-  1. 4
-    1. 4.5
+
+  1. sentence 3.5
 
 ### Table
 
