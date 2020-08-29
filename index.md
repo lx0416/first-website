@@ -13,6 +13,13 @@ UOL Computing and Information Systems
 2. sentence 2
 3. sentence 3
 
+### Table
+
+column 1 | column 2
+-------- | ---------
+cell 1 | cell 2
+cell 3 | cell 4 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
