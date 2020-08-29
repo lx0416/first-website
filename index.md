@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 ## Welcome!
 
 ### About Myself
@@ -19,12 +21,6 @@ column 1 | column 2
 -------- | ---------
 cell 1 | cell 2
 cell 3 | cell 4 
-
-As Kanye West said:
-
-> We're living the future so the present is our past
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
