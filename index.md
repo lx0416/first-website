@@ -7,6 +7,7 @@ UOL Computing and Information Systems
 ### My Interests
 
 ![image](https://user-images.githubusercontent.com/70319427/91632639-c85cec80-ea14-11ea-9f5a-328158f907f9.png)
+
 Sports
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
